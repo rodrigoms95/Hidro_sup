@@ -45,4 +45,8 @@ x = ["lunes", "martes", "miércoles", "jueves", "viernes"]
 print(x)
 print(x[2])
 # para salir de python, escribir quit()
+# Otra estructura de datos son los diccionarios.
+dicc = {"Nombre": "Rodrigo", "Apellido": "Muñoz}
+# Accedemos a cada valor por su llave.
+dicc["Nombre"]
 quit()
