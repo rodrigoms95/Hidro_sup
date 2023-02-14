@@ -25,6 +25,8 @@ txt = "hola mundo"
 # escribir el nombre de la variable nos da su valor.
 txt
 # las comillas sencillas ' y las " son equivalentes.
+txt = 'hola mundo'
+txt
 # Para escribir la variable de manera explícita en el monitor, se imprime su valor.
 print(txt)
 print(c)
@@ -44,9 +46,9 @@ print(lista_numeros[-2])
 x = ["lunes", "martes", "miércoles", "jueves", "viernes"]
 print(x)
 print(x[2])
-# para salir de python, escribir quit()
 # Otra estructura de datos son los diccionarios.
 dicc = {"Nombre": "Rodrigo", "Apellido": "Muñoz}
 # Accedemos a cada valor por su llave.
 dicc["Nombre"]
+# para salir de python, escribir quit()
 quit()
